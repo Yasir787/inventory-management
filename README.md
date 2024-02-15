@@ -1,1 +1,1 @@
-# inventory-management
+install sqlite3
