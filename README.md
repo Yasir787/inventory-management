@@ -1,1 +1,2 @@
-install sqlite3
+inventory management 
+using python with the sqlite3 database
